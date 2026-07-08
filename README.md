@@ -15,4 +15,4 @@ Place The Rabbit Game 🐰
 تأكد من تثبيت لغة البايثون على جهازك.
 قم بتحميل ملف اللعبه "مشروع نقل الارنب.py" 
 افتح الطرفية (Terminal) واكتب الأمر:
-![Flowchart]()
+![Flowchart](https://github.com/ys2832010-wq/place-the-rabbit./raw/main/ChatGPT%20Image%205%20%D9%8A%D9%88%D9%84%D9%8A%D9%88%202026%D8%8C%2004_19_25%20%D9%85.png)
